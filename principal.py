@@ -10,7 +10,7 @@ regras = {
     'instaladores': ['.exe', '.msi']
 }
 
-def organizar(pasta_origem):
+def organizar(pasta):
     if not os.path.exists(origem):
         print('O caminho especificado não existe')
         return
