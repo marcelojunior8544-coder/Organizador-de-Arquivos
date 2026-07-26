@@ -1,3 +1,3 @@
 # Organizador
 ***
-Organiza a pasta de downloads. Criando pasta de acordo com o tipo de arquivo
+Organiza a pasta de downloads. Criando as pastas de acordo com o tipo de arquivo
